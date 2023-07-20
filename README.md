@@ -1,5 +1,4 @@
 ## Hi, I'm Billy 👋
----
 - 🤸🏼‍♂️ I’m a musician, audio engineer, and programmer living in Brooklyn, NY
 - 👾 I learned to code the summer before attending grad school at NYU's ITP
 - ⏚ I also teach creative tech at NYU's IMA and IDM programs
